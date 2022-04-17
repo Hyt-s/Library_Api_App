@@ -6,16 +6,10 @@
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 
-<!-- DEMO -->
-
-## Demo
-
-https://google.com/
 
 ## Built With
 
